@@ -1,0 +1,15 @@
+[submodule "giang063_sims2014"]
+	path = giang063_sims2014
+	url = git@github.com:gianordoli/giang063_sims2014.git
+[submodule "henrc131_sims2014"]
+	path = henrc131_sims2014
+	url = git@github.com:clhenrick/henrc131_sims2014.git
+[submodule "huynh316_sims2014"]
+	path = huynh316_sims2014
+	url = git@github.com:huynj316/huynh316_sims2014.git
+[submodule "mastd863_sims2014"]
+	path = mastd863_sims2014
+	url = git@github.com:dmtta/mastd863_sims2014.git
+[submodule "mab094_sims2014"]
+	path = mab094_sims2014
+	url = git@github.com:whoisbma/mab094_sims2014.git
