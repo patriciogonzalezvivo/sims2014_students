@@ -16,6 +16,7 @@
 
 * Your homework repo should be inside ```openFrameworks/app``` folder. Inside to maintain the “3 levels down rule“ your homework should be all in the same folder. NO SUBFOLDERS. You can organize it by [WEEK_NUMBER]_[HOMEWORK_NUMBER]_[NAME]. For Example:
 
+```
 	openFrameworks/
 		addons/
 		app/
@@ -28,7 +29,8 @@
 		libs/
 		examples/
 		sims2014/
- 
+ ```
+
 * Remember to add a [```.gitignore```](https://gist.github.com/ofZach/3707086). This will tells git to avoid certain files, such as compiled object code, .app / .exes, etc. It keeps your repos slim and lightweight and helps you avoid committing unnecessary things. (Beside [Zach’s gitignore](https://gist.github.com/ofZach/3707086 you can make your using [this site](http://www.gitignore.io/) ). Also you can use the one from the sims repo. For example, inside your private homework folder do:
 
 	cp ../../sims2014/.gitignore .
