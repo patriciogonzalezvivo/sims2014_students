@@ -13,3 +13,15 @@
 [submodule "mab094_sims2014"]
 	path = mab094_sims2014
 	url = git@github.com:whoisbma/mab094_sims2014.git
+[submodule "collb038_sims2014"]
+	path = collb038_sims2014
+	url = git@github.com:bbcollinsworth/collb038_sims2014.git
+[submodule "compagnb_sims2014"]
+	path = compagnb_sims2014
+	url = git@github.com:compagnb/compagnb_sims2014.git
+[submodule "Kolla075-sims2014"]
+	path = Kolla075-sims2014
+	url = git@github.com:AnnaKolla/Kolla075-sims2014.git
+[submodule "florr422_sims2014"]
+	path = florr422_sims2014
+	url = git@github.com:reginaflores/florr422_sims2014.git
